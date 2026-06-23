@@ -18,13 +18,27 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Header Banner" width="100%" />
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=25&pause=1000&color=0EB125FD&width=600&height=60&lines=This+is+Chetan+Singh+Negi;I'm+a+Full+Stack+Developer;who+also+happens+to+play+sports+well%F0%9F%98%89" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&duration=3000&pause=1000&color=1BE939&center=true&width=600&height=80&lines=Hey!+This+is+Chetan+Singh+Negi;I'm+a+Full+Stack+Developer;DSA+Enthusiat;who+also+happens+to+play+sports+well%F0%9F%98%89" alt="Typing SVG" /></a>
 
-I thrive in working on making ambiguous problems tractable, well defined and adequately documented. Passionate about Coding and I can deep dive into a new stack to investigate and prototype recommendations that meet both short-term and long-term needs. I am an experienced Frontend Engineer specializing in building highly performant, accessible, and scalable web applications. Passionate about architecture optimization, clean code practices, and smooth user experiences.
+<h1 align="center">Hi 👋, I'm Chetan Singh Negi</h1>
+<h3 align="center">I thrive in working on making ambiguous problems tractable, well defined and adequately documented. Passionate about Coding and I can deep dive into a new stack to investigate and prototype recommendations that meet both short-term and long-term needs.</h3>
 
-# Hi there, I'm Chetan Singh Negi 👋 
+🚀 About Me
+
 **Senior Frontend Developer | 5 Years Experience**
-### 🛠 Technologies & Tools
+
+- 🔭 I’m currently working on **Full Stack develop**
+
+- 🌱 I’m currently learning **Full Stack Development and System Design**
+
+- 💬 Ask me about **Next.js 14, React, and TypeScript Architecture Core Web Vitals and SEO Optimization SKU-based "Quick Order" Engineering Greenfield Architecture and WCAG-Compliant Component Libraries Web Security, CSP, and Penetration Testing Google Analytics 4 and Google Tag Manager Integration Data Structures, Algorithms, and LeetCode Problem Solving Full-Stack Integration with .NET, C#, Python, and SQL**
+
+- 📫 How to reach me **chetannegi000@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PH2l_RVHspLRbg1C0yBD9y0aSEFLI4TF/view?usp=drive_link](https://drive.google.com/file/d/1PH2l_RVHspLRbg1C0yBD9y0aSEFLI4TF/view?usp=drive_link)
+
+- ⚡ Fun fact **My code has survived security hardening assessments and Burp Suite penetration testing without breaking character.**
+
 
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="dotnet"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" alt="babel"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus"/> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="express"/> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass"/>
@@ -32,26 +46,13 @@ I thrive in working on making ambiguous problems tractable, well defined and ade
 
 ---
 
-
-- ⚡ Fun fact **My code has survived security hardening assessments and Burp Suite penetration testing without breaking character.**
-
----
-
 ### 🚀 Technical Expertise
 
-* **Languages & Core:** JavaScript, TypeScript, HTML5, CSS3, C# (.NET), Python
-* **Frameworks & Libraries:** Next.js (v14+), React.js, Redux / Redux Toolkit, Zustand, Flask
+* **Languages & Core:** JavaScript, TypeScript, HTML5, CSS3, C# (.NET), Python, Java
+* **Frameworks & Libraries:** Next.js (v14+), React.js, Redux / Redux Toolkit, Zustand, Flask, Node js, Dotnet(.net)
 * **Styling Ecosystem:** Tailwind CSS, SASS/SCSS, Material UI, Ant Design (AntD)
 * **Testing & Tools:** Jest, React Testing Library, Git, GitHub, Azure, AWS, GraphQL, REST APIs
-
----
-
-### 💻 Professional Highlights
-
-* **E-Commerce Architecture Overhaul:** Spearheaded the migration and architectural scaling of a high-scale e-commerce platform utilizing Next.js 14, TypeScript, and GraphQL, drastically improving Core Web Vitals and SEO rankings.
-* **Conversion Optimization:** Engineered a high-efficiency SKU-based "Quick Order" checkout flow, successfully decreasing average time-to-purchase metrics by 30%.
-* **Greenfield Architecture:** Established frontend structures, modular folder setups, and reusable, accessible component design systems compliant with WCAG standards from the ground up.
-* **Security Hardening:** Implemented strict Content Security Policies (CSP), mitigated XSS risks, and utilized Burp Suite for application penetration and vulnerability scanning.
+* **Engineering Fundamentals:** Ranked within the top 10% nationwide in the competitive GATE examination.
 
 ---
 
@@ -63,25 +64,26 @@ I thrive in working on making ambiguous problems tractable, well defined and ade
 
 ---
 
-### 🏆 Stats & Achievements
-* **Problem Solving:** Successfully solved 500+ Data Structures & Algorithms problems across LeetCode (440+) and GeeksforGeeks.
-* **Engineering Fundamentals:** Ranked within the top 10% nationwide in the competitive GATE examination.
-
----
 
 <p align="left">
   <img src="https://leetcard.jacoblin.cool/chetannegi000?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 
-## 📊 GitHub Stats
 
+
+🧠 LeetCode Stats  <a href="https://leetcode.com/sumitksr" rel="nofollow"><img src="https://camo.githubusercontent.com/53e285be43a5e608ce8d1ad027cbbf776df89cd6ba6c1469cdf076a35ff2ef36/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c656574436f64652d4646413131363f7374796c653d666f722d7468652d6261646765266c6f676f3d6c656574636f6465266c6f676f436f6c6f723d7768697465" alt="LeetCode" data-canonical-src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white" style="max-width: 100%;"></a>
+
+👨‍💻 Solved 400+ problems
+💪 Focused on mastering Data Structures & Algorithms
 <!-- Top Row: Stats Card & Most Used Languages Card -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chetansinghnegi&show_icons=true&theme=radical" alt="GitHub Stats" height="195px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetansinghnegi&layout=compact&theme=radical" alt="Top Languages" height="195px" />
 </p>
 
+
+## 📊 GitHub Stats
 <!-- Bottom Row: Dynamic Contribution Activity Graph -->
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChetanSinghNegi&bg_color=000000&color=8c8aff&line=5257ff&point=38e8ff&area=true&hide_border=true" alt="Chetan's GitHub Contribution Graph" width="100%" />
