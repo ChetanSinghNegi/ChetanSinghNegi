@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Header Banner" width="100%" />
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&duration=3000&pause=1000&color=1BE939&center=true&width=600&height=80&lines=Hey!+This+is+Chetan+Singh+Negi;I'm+a+Full+Stack+Developer;DSA+Enthusiat;who+also+happens+to+play+sports+well%F0%9F%98%89" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&duration=3000&pause=1000&color=1BE939&center=true&width=900&height=80&lines=Hey!+This+is+Chetan+Singh+Negi;I'm+a+Full+Stack+Developer;DSA+Enthusiat;who+also+happens+to+play+sports+well%F0%9F%98%89" alt="Typing SVG" /></a>
 
 <h1 align="center">Hi 👋, I'm Chetan Singh Negi</h1>
 <h3 align="center">I thrive in working on making ambiguous problems tractable, well defined and adequately documented. Passionate about Coding and I can deep dive into a new stack to investigate and prototype recommendations that meet both short-term and long-term needs.</h3>
