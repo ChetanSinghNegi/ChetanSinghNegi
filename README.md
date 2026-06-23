@@ -72,14 +72,14 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <!-- Top Row: Stats Card & Most Used Languages Card -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChetanSinghNegi&show_icons=true&theme=tokyonight&count_private=true" alt="Chetan's GitHub Stats" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanSinghNegi&layout=compact&theme=tokyonight&langs_count=7" alt="Chetan's Most Used Languages" height="195px" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chetansinghnegi&show_icons=true&theme=radical" alt="GitHub Stats" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetansinghnegi&layout=compact&theme=radical" alt="Top Languages" height="195px" />
 </p>
 
 <!-- Bottom Row: Dynamic Contribution Activity Graph -->
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChetanSinghNegi&theme=tokyonight" alt="Chetan's Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChetanSinghNegi&bg_color=000000&color=8c8aff&line=5257ff&point=38e8ff&area=true&hide_border=true" alt="Chetan's GitHub Contribution Graph" width="100%" />
 </p>
 
 ---
@@ -88,6 +88,18 @@ Here are some ideas to get you started:
   <img src="https://leetcard.jacoblin.cool/chetannegi000?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
+## 📊 GitHub Stats
+
+<!-- Top Row: Stats Card & Most Used Languages Card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChetanSinghNegi&show_icons=true&theme=radical&count_private=true" alt="Chetan's GitHub Stats" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanSinghNegi&layout=compact&theme=radical&langs_count=7" alt="Chetan's Most Used Languages" height="195px" />
+</p>
+
+<!-- Bottom Row: Dynamic Contribution Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChetanSinghNegi&theme=react-dark&bg_color=141516&line=388bfd&point=58a6ff" alt="Chetan's Contribution Graph" width="100%" />
+</p>
 
 ### 📫 Connect with Me
 
