@@ -1,13 +1,4 @@
-## Hi there 👋
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?
-font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there%F0%9F%91%8B+I'm+Chetan+Singh+Negi;Frontend+Developer+with+5%2B+Years+Experience;React.js+
-%7C+Next.js+%7C+JavaScript;Passionate+about+Building+Scalable+Applications" />
-<h3>Frontend Developer | React.js | Next.js | JavaScript | Problem Solver</h3>
-<p> <img src="https://komarev.com/ghpvc/?
-username=ChetanSinghNegi&label=Profile%20views&color=0e75b6&style=flat" /> </p>
-</div>
 
 <!--
 **ChetanSinghNegi/ChetanSinghNegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Hi there 👋
+💫 About Me
+💼 Frontend Developer with 5+ years of experience
+🚀 Building scalable applications using React.js and Next.js
+🌱 Currently exploring advanced React patterns and System Design
+⚡ Passionate about performance optimization and reusable architectures
+🧩 Solved 500+ DSA problems
+🎯 GATE qualified and ranked among the top 10% candidates
