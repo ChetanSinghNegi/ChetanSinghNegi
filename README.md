@@ -69,6 +69,11 @@ Here are some ideas to get you started:
 
 ---
 
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/chetannegi000?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+
 ## 📊 GitHub Stats
 
 <!-- Top Row: Stats Card & Most Used Languages Card -->
@@ -83,23 +88,6 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
-<p align="left">
-  <img src="https://leetcard.jacoblin.cool/chetannegi000?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
-## 📊 GitHub Stats
-
-<!-- Top Row: Stats Card & Most Used Languages Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChetanSinghNegi&show_icons=true&theme=radical&count_private=true" alt="Chetan's GitHub Stats" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanSinghNegi&layout=compact&theme=radical&langs_count=7" alt="Chetan's Most Used Languages" height="195px" />
-</p>
-
-<!-- Bottom Row: Dynamic Contribution Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChetanSinghNegi&theme=react-dark&bg_color=141516&line=388bfd&point=58a6ff" alt="Chetan's Contribution Graph" width="100%" />
-</p>
 
 ### 📫 Connect with Me
 
