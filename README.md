@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Header Banner" width="100%" />
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=25&pause=1000&color=07CA17&center=true&width=435&lines=Hey!+This+is+Chetan+Singh+Negi;I'm+a+Full+Stack+Developer;Loves+Cricket+and+Sports+in+General" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=25&pause=1000&color=0EB125FD&width=600&height=60&lines=This+is+Chetan+Singh+Negi;I'm+a+Full+Stack+Developer;who+also+happens+to+play+sports+well%F0%9F%98%89" alt="Typing SVG" /></a>
 
- I thrive in working on making ambiguous problems tractable, well defined and adequately documented. Passionate about Coding and I can deep dive into a new stack to investigate and prototype recommendations that meet both short-term and long-term needs. I am an experienced Frontend Engineer specializing in building highly performant, accessible, and scalable web applications. Passionate about architecture optimization, clean code practices, and smooth user experiences.
+I thrive in working on making ambiguous problems tractable, well defined and adequately documented. Passionate about Coding and I can deep dive into a new stack to investigate and prototype recommendations that meet both short-term and long-term needs. I am an experienced Frontend Engineer specializing in building highly performant, accessible, and scalable web applications. Passionate about architecture optimization, clean code practices, and smooth user experiences.
 
 # Hi there, I'm Chetan Singh Negi 👋 
 **Senior Frontend Developer | 5 Years Experience**
