@@ -56,11 +56,14 @@ Here are some ideas to get you started:
 
 ---
 
-### 🛠 Featured Projects
+🌟 Featured Projects
 
-* **Peliculas:** High-performance media exploration application leveraging React, Redux Toolkit, and Vite with optimized real-time search functionality.
-* **Mini Instagram:** A full-stack social media environment engineered using the MERN ecosystem (MongoDB, Express, React, Node.js) with JWT authentication and file handling.
-* **Automation Engines:** Built custom scripts and CLI platforms including a HackerRank automation suite and a lightweight custom Virtual File System utilizing Node.js.
+| Project               | Description                                                                              | Link                                                                                                                           |
+|-----------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| Peliculas             | High-performance media exploration app featuring real-time search and dynamic filtering. | https://chetan-peliculas.vercel.app/                                                                                           |
+| Mini Instagram        | Social Media Clone featuring image uploads via Multer and secure JWT authentication.     | https://github.com/ChetanSinghNegi/Mern_Mini_Instagram_frontend https://github.com/ChetanSinghNegi/mern_mini_instagram_backend |
+| Food Ordering App     | Delicious Food, Delivered To You😋                                                        | https://chetan-food-ordering-app.netlify.app/                                                                                  |
+| HackerRank Automation | Automation of Contest Problem Solving                                                    | https://github.com/ChetanSinghNegi/hackerrank_automation                                                                       |
 
 ---
 
