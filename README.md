@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Header Banner" width="100%" />
 </p>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&pause=1000&color=07CA17&width=435&lines=Hey!+This+is+Chetan+Singh+Negi;I'm+a+Full+Stack+Developer;Loves+Cricket+and+Sports+in+General)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&pause=1000&color=07CA17&width=435&lines=Hey!+This+is+Chetan+Singh+Negi;I'm+a+Full+Stack+Developer;Loves+Cricket+and+Sports+in+General" alt="Typing SVG" /></a>
 
 # Hi there, I'm Chetan Singh Negi 👋 
 **Senior Frontend Developer | 5 Years Experience**
