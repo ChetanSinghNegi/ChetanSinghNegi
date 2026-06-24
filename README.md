@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 **Senior Frontend Developer | 5 Years Experience**
 
-- 🔭 I’m currently working on **Full Stack develop**
+- 🔭 I’m currently working on **Full Stack developer**
 
-- 🌱 I’m currently learning **Full Stack Development and System Design**
+- 🌱 I’m currently learning **Probleming Solving, Full Stack Development and System Design**
 
 - 💬 Ask me about **Next.js 14, React, and TypeScript Architecture Core Web Vitals and SEO Optimization SKU-based "Quick Order" Engineering Greenfield Architecture and WCAG-Compliant Component Libraries Web Security, CSP, and Penetration Testing Google Analytics 4 and Google Tag Manager Integration Data Structures, Algorithms, and LeetCode Problem Solving Full-Stack Integration with .NET, C#, Python, and SQL**
 
