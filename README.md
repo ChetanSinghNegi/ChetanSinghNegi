@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Probleming Solving, Full Stack Development and System Design**
 
-- 💬 Ask me about **Next.js 14, React, and TypeScript Architecture Core Web Vitals and SEO Optimization SKU-based "Quick Order" Engineering Greenfield Architecture and WCAG-Compliant Component Libraries Web Security, CSP, and Penetration Testing Google Analytics 4 and Google Tag Manager Integration Data Structures, Algorithms, and LeetCode Problem Solving Full-Stack Integration with .NET, C#, Python, and SQL**
+- 💬 Ask me about **Next.js 14, React, TypeScript Architecture Core Web Vitals, SEO Optimization, Architecture and WCAG-Compliant Component Libraries Web Security, CSP, Penetration Testing Google Analytics 4, Google Tag Manager Integration Data Structures, Algorithms, LeetCode Problem Solving Full-Stack Integration with .NET, C#, Python, and SQL**
 
 - 📫 How to reach me **chetannegi000@gmail.com**
 
