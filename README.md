@@ -129,5 +129,5 @@ Here are some ideas to get you started:
 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetansinghnegi/)
-[![Resume](https://img.shields.io/badge/Resume-E62117?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1PH2l_RVHspLRbg1C0yBD9y0aSEFLI4TF/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-E62117?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1eggx8ZyPNv64QoRYzrQ0IqCT2TOGEQlT/view?usp=sharing)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetannegi000@gmail.com)
